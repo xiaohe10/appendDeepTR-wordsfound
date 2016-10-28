@@ -1,0 +1,6 @@
+C:\Users\t-hexiao\documents\visual studio 2015\Projects\DeepTermWeightFeatureCalculator\DeepTermWeightFeatureCalculator\bin\Debug\DeepTermWeightFeatureCalculator.exe.config
+C:\Users\t-hexiao\documents\visual studio 2015\Projects\DeepTermWeightFeatureCalculator\DeepTermWeightFeatureCalculator\bin\Debug\DeepTermWeightFeatureCalculator.exe
+C:\Users\t-hexiao\documents\visual studio 2015\Projects\DeepTermWeightFeatureCalculator\DeepTermWeightFeatureCalculator\bin\Debug\DeepTermWeightFeatureCalculator.pdb
+C:\Users\t-hexiao\documents\visual studio 2015\Projects\DeepTermWeightFeatureCalculator\DeepTermWeightFeatureCalculator\obj\Debug\DeepTermWeightFeatureCalculator.csprojResolveAssemblyReference.cache
+C:\Users\t-hexiao\documents\visual studio 2015\Projects\DeepTermWeightFeatureCalculator\DeepTermWeightFeatureCalculator\obj\Debug\DeepTermWeightFeatureCalculator.exe
+C:\Users\t-hexiao\documents\visual studio 2015\Projects\DeepTermWeightFeatureCalculator\DeepTermWeightFeatureCalculator\obj\Debug\DeepTermWeightFeatureCalculator.pdb
